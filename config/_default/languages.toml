@@ -1,6 +1,6 @@
 ################################### English language #####################################
 [en]
-languageName = "En"
+languageName = "en"
 languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
@@ -10,7 +10,7 @@ copyright = "Copyright &copy; 2025 Metodia"
 
 ################################### Spanish language #####################################
 [es]
-languageName = "Es"
+languageName = "es"
 languageCode = "es-AR"
 contentDir = "content/spanish"
 weight = 2
@@ -20,7 +20,7 @@ copyright = "Copyright &copy; 2025 Metodia"
 
 ################################### French language #####################################
 [fr]
-languageName = "Fr"
+languageName = "fr"
 languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 3
