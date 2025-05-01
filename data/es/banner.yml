@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/hero-area.webp"
+  bg_image : "images/backgrounds/hero-area.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Automatización Metódica para el Crecimiento Empresarial"
+  content : "Transformamos procesos empresariales complejos en flujos de trabajo automatizados y simples que ahorran tiempo, reducen costos y eliminan errores—sin requerir experiencia técnica de su parte."
+  button:
+    enable : true
+    label : "Explorar Nuestros Servicios"
+    link : "#services"

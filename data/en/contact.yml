@@ -1,0 +1,25 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Contact Us
+  subtitle : Ready to Begin Your Automation Journey?
+  content : Schedule a consultation with our experts to explore your specific automation opportunities. No pressure, no technical jargon — just a straightforward conversation about making your business more efficient and profitable.
+
+  # Contact details
+  contact_list:
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "Buenos Aires, Argentina"
+
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: hello@metodia.ar"
+
+
+  # Contact form
+  contact_form:
+    enable : true
+    form_action : "#" #contact form works with https://formspree.io
+    name : "Full Name"
+    email : "your.email@company.com"
+    subject : "Company and Position"
+    message : "What processes would you like to automate in your business?"
+    submit : "Request Consultation"

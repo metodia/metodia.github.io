@@ -1,0 +1,16 @@
+############################# About ###################################
+about:
+  enable : true
+  title : Sobre Nosotros
+  about_item :
+  - icon : ti-layers # themify icon pack : https://themify.me/themify-icons
+    title : Metódicos por Diseño
+    content : Abordamos cada desafío de automatización con un marco sistemático que transforma flujos de trabajo complejos en procesos eficientes impulsados por IA. Nuestra metodología estructurada asegura que nada se pase por alto.
+
+  - icon : ti-briefcase # themify icon pack : https://themify.me/themify-icons
+    title : Experiencia por Industria
+    content : Nuestros especialistas aportan un profundo conocimiento de dominio en múltiples industrias, lo que nos permite comprender sus desafíos únicos y diseñar soluciones de automatización que aborden su contexto empresarial específico.
+
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+    title : Innovación Centrada en las Personas
+    content : Creemos que la mejor automatización potencia el talento humano en lugar de reemplazarlo. Nuestras soluciones permiten a su equipo centrarse en el trabajo estratégico mientras la IA maneja las tareas rutinarias.

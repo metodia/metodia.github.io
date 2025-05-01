@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/bg-white-wall.jpg"
+  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  title : "Ready to Transform Your Business?"
+  content : "Discover your automation potential with our free workflow assessment. No technical expertise required - just bring your business challenges."
+  button:
+    enable : true
+    label : "Schedule a Consultation"
+    link : "#contact"

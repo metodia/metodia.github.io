@@ -1,0 +1,30 @@
+################################# Skill ##################################
+skill:
+  enable : true
+  title : Nuestra Experiencia
+  subtitle : Nuestro Enfoque Técnico
+  content : En Metodia, adaptamos el enfoque tecnológico adecuado a las necesidades específicas y capacidad técnica de cada cliente. Desde soluciones completamente sin código hasta sistemas desarrollados a medida, escalamos nuestros métodos para ofrecer el equilibrio perfecto entre potencia, flexibilidad y mantenibilidad.
+  image : images/about/company-growth.webp
+  skill_item :
+    # skill item loop
+    - name :  Automatización Sin Código
+      percent : 95%
+
+    # skill item loop
+    - name :  Soluciones Híbridas Low-Code
+      percent : 90%
+
+    # skill item loop
+    - name :  Desarrollo Personalizado
+      percent : 85%
+
+    - name :  Integración de Sistemas
+      percent : 90%
+
+    # skill item loop
+    - name :  Implementación de IA
+      percent : 80%
+
+    # skill item loop
+    - name :  Análisis y Optimización de Procesos
+      percent : 95%

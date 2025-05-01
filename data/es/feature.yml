@@ -1,0 +1,27 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/about-business-man.jpg
+  image_webp : images/about/about-business-man.webp
+  title : "Nuestra Misión: Democratizar la Automatización"
+  content : "Con años de experiencia construyendo sistemas de automatización complejos para grandes corporaciones, nos dimos cuenta de que las pequeñas empresas necesitaban estos mismos beneficios, pero más simples y asequibles. Por eso iniciamos Metodia: para hacer que la automatización potente sea accesible para todos."
+  feature_item :
+      # feature item loop
+    - title : Implementación Rápida
+      icon : ti-timer # themify icon pack : https://themify.me/themify-icons
+      content : Del concepto a la implementación en semanas, no meses, con despliegues por etapas que entregan valor en cada paso.
+
+      # feature item loop
+    - title : Herramientas Probadas
+      icon : ti-shield # themify icon pack : https://themify.me/themify-icons
+      content : Patrones y enfoques de automatización probados en batalla que reducen el riesgo y garantizan un rendimiento confiable desde el primer día.
+
+      # feature item loop
+    - title : Soluciones Económicas
+      icon : ti-wallet # themify icon pack : https://themify.me/themify-icons
+      content : Modelos de precios flexibles y soluciones escalables diseñadas específicamente para presupuestos y trayectorias de crecimiento de pequeñas empresas.
+
+      # feature item loop
+    - title : Soporte Continuo
+      icon : ti-headphone-alt # themify icon pack : https://themify.me/themify-icons
+      content : Orientación continua y asistencia técnica para garantizar que su automatización siga evolucionando con las necesidades de su negocio.

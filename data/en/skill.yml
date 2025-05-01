@@ -1,0 +1,30 @@
+################################# Skill ##################################
+skill:
+  enable : true
+  title : Our Expertise
+  subtitle : Our Technical Approach
+  content : At Metodia, we match the right technology approach to each client's specific needs and technical capacity. From completely code-free solutions to custom-developed systems, we scale our methods to deliver the perfect balance of power, flexibility, and maintainability.
+  image : images/about/company-growth.webp
+  skill_item :
+    # skill item loop
+    - name :  No-Code Automation
+      percent : 95%
+
+    # skill item loop
+    - name :  Low-Code Hybrid Solutions
+      percent : 90%
+
+    # skill item loop
+    - name :  Custom Development
+      percent : 85%
+
+    - name :  System Integration
+      percent : 90%
+
+    # skill item loop
+    - name :  AI Implementation
+      percent : 80%
+
+    # skill item loop
+    - name :  Process Analysis & Optimization
+      percent : 95%

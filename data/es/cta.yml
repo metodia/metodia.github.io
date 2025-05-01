@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/bg-white-wall.jpg"
+  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  title : "¿Listo para Transformar su Negocio?"
+  content : "Descubra su potencial de automatización con nuestra evaluación gratuita de flujo de trabajo. No se requiere experiencia técnica - solo traiga sus desafíos empresariales."
+  button:
+    enable : true
+    label : "Agendar una Consulta"
+    link : "#contact"

@@ -1,0 +1,34 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Nuestros Servicios
+  service_item :
+    # service item loop
+    - name : Automatización de Flujos de Trabajo con IA
+      icon : ti-loop # themify icon pack : https://themify.me/themify-icons
+      content : Transforme tareas repetitivas en procesos automatizados que funcionan 24/7, reduciendo costos y eliminando errores humanos mientras libera a su equipo para trabajo de mayor valor.
+
+    # service item loop
+    - name : Paneles de Control Personalizados
+      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      content : Interfaces visuales e intuitivas que le brindan visibilidad y control completos sobre sus sistemas automatizados, diseñadas específicamente para usuarios no técnicos.
+
+    # service item loop
+    - name : Integración de Sistemas
+      icon : ti-link # themify icon pack : https://themify.me/themify-icons
+      content : Conecte su software y herramientas existentes en un ecosistema cohesivo donde la información fluye automáticamente entre sistemas sin intervención manual.
+
+    # service item loop
+    - name : Procesamiento Inteligente de Documentos
+      icon : ti-files # themify icon pack : https://themify.me/themify-icons
+      content : Soluciones impulsadas por IA que extraen, clasifican y procesan información de documentos, correos electrónicos y formularios con mínima supervisión humana.
+
+    # service item loop
+    - name : Estrategia de Automatización
+      icon : ti-map # themify icon pack : https://themify.me/themify-icons
+      content : Asesoramiento experto para identificar sus oportunidades de automatización de mayor impacto y crear una hoja de ruta de implementación por fases alineada con sus objetivos empresariales.
+
+    # service item loop
+    - name : Optimización de Procesos
+      icon : ti-settings # themify icon pack : https://themify.me/themify-icons
+      content : Análisis y rediseño de sus flujos de trabajo existentes para eliminar cuellos de botella e ineficiencias antes de implementar soluciones de automatización.
