@@ -17,7 +17,9 @@ contact:
   # Contact form
   contact_form:
     enable : true
-    form_action : "#" #contact form works with https://formspree.io
+    form_action : "https://api.web3forms.com/submit" #contact form works with https://web3forms.com/
+    access_key : "50415e92-6c63-47a7-b0f5-aa5fa2c618a3" # get your public key from https://web3forms.com/
+    redirect_url : "https://metodia.ar/"
     name : "Nombre y Apellido"
     email : "su.correo@empresa.com"
     subject : "Empresa y Cargo"
