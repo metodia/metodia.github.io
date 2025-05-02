@@ -5,11 +5,17 @@
     height: 400px;
   }
 
-  @media (min-width: 1024px) {
+  @media (min-width: 992px) {
     height: 570px;
   }
 }
 
 .service-block {
-  height: 400px;
+  height: 450px;
+}
+
+@media (min-width: 992px) {
+  .member-meta {
+    height: 350px;
+  }
 }

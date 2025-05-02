@@ -1,21 +1,21 @@
-################################### English language #####################################
-[en]
-languageName = "en"
-languageCode = "en-us"
-contentDir = "content/english"
-weight = 1
-[en.params]
-home = "Home"
-copyright = "Copyright &copy; 2025 Metodia"
-
 ################################### Spanish language #####################################
 [es]
 languageName = "es"
 languageCode = "es-AR"
 contentDir = "content/spanish"
-weight = 2
+weight = 1
 [es.params]
 home = "Inicio"
+copyright = "Copyright &copy; 2025 Metodia"
+
+################################### English language #####################################
+[en]
+languageName = "en"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 2
+[en.params]
+home = "Home"
 copyright = "Copyright &copy; 2025 Metodia"
 
 ################################### French language #####################################

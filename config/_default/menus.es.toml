@@ -1,12 +1,12 @@
 
 ################### English Navigation ########################
 [[main]]
-name = "about"
+name = "acerca de"
 url = "#about"
 weight = 1
 
 [[main]]
-name = "services"
+name = "servicios"
 url = "#services"
 weight = 2
 
@@ -16,6 +16,6 @@ url = "#team"
 weight = 4
 
 [[main]]
-name = "contact"
+name = "contacto"
 url = "#contact"
 weight = 7
