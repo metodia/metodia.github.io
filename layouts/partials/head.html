@@ -1,7 +1,6 @@
 <head>
 	<meta charset="utf-8">
-  <title>{{ if .Title }}{{ .Title }}{{ if site.Params.title }} | {{ site.Params.title }}{{ end }}{{ else }}{{ site.Params.title }}{{ end }}</title>
-
+  	<title>{{ if .Title }}{{ .Title }}{{ if site.Params.title }} | {{ site.Params.title }}{{ end }}{{ else }}{{ site.Params.title }}{{ end }}</title>
 
 	{{ "<!-- mobile responsive meta -->" | safeHTML }}
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -10,7 +9,7 @@
 	<meta name="author" content="{{ . }}">{{ end }}
 
 	<!-- theme meta -->
-        <meta name="theme-name" content="meghna-hugo" />
+    <meta name="theme-name" content="meghna-hugo" />
 	{{ hugo.Generator }}
 
 	{{ "<!-- plugins -->" | safeHTML }}
@@ -24,7 +23,7 @@
 
 	{{"<!-- Custom stylesheet - for your changes -->" |safeHTML}}
 	{{ $custom := resources.Get "css/custom.css" | minify }}
-  <link rel="stylesheet" href="{{ $custom.Permalink }}" media="screen">
+  	<link rel="stylesheet" href="{{ $custom.Permalink }}" media="screen">
 
 	{{ "<!--Favicon-->" | safeHTML }}
 	<link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
@@ -42,4 +41,7 @@
 	</script>
 	{{ end }}
 
+	<script>
+	if (navigator.language.startsWith('en') && !location.pathname.startsWith('/en/')) location.href = '/en/';
+	</script>
 </head>
