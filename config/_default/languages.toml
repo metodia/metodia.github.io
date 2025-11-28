@@ -6,7 +6,7 @@ contentDir = "content/spanish"
 weight = 1
 [es.params]
 home = "Inicio"
-copyright = "Copyright &copy; 2025 Vivasa S.R.L. Todos los derechos reservados."
+copyright = "Copyright &copy; 2025 Metodia. Todos los derechos reservados."
 
 ################################### English language #####################################
 [en]
@@ -16,7 +16,7 @@ contentDir = "content/english"
 weight = 2
 [en.params]
 home = "Home"
-copyright = "Copyright &copy; 2025 Vivasa S.R.L. All rights reserved."
+copyright = "Copyright &copy; 2025 Metodia. All rights reserved."
 
 ################################### French language #####################################
 [fr]
@@ -26,7 +26,7 @@ contentDir = "content/french"
 weight = 3
 [fr.params]
 home = "Accueil"
-copyright = "Copyright &copy; 2025 Vivasa S.R.L. Tous droits réservés."
+copyright = "Copyright &copy; 2025 Metodia. Tous droits réservés."
 
 
 
