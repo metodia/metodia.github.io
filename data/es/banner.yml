@@ -4,13 +4,13 @@ banner:
   bg_image_webp : "images/backgrounds/hero-area.webp"
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Automatización Metódica para el Crecimiento Empresarial"
-  content : "Transformamos procesos empresariales complejos en flujos de trabajo inteligentes que ahorran tiempo, reducen costos y eliminan errores — sin requerir experiencia técnica de su parte."
+  title : "Construye un Mejor Soporte al Cliente. Automatiza Todo lo Demás."
+  content : "<b>Sofia</b> automatiza las consultas de clientes 24/7. <b>Metodia</b> automatiza cualquier flujo de trabajo. Ambos diseñados para despliegue rápido y transparencia."
   button:
+    enable : true
+    label : "Descubrí Sofia"
+    link : "https://sofia.metodia.ar/es"
+  secondary_button:
     enable : true
     label : "Explorar Nuestros Servicios"
     link : "#services"
-  secondary_button:
-    enable : true
-    label : "Descubrí Sofia"
-    link : "https://sofia.metodia.ar"

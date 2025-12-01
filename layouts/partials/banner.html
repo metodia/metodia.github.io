@@ -16,12 +16,12 @@ $data.banner.banner.enable }} {{ with $data.banner.banner }} {{"<!-- Welcome Sli
     <h1>{{ .title | markdownify }}</h1>
     <p>{{ .content | markdownify }}</p>
     {{ if .button.enable }} {{ with .button }}
-    <a href="{{ .link }}" class="btn btn-transparent page-scroll"
+    <a href="{{ .link }}" class="btn btn-main page-scroll" target="_blank"
       >{{ .label }}</a
     >
     {{ end }} {{ end }}
     {{ if .secondary_button.enable }} {{ with .secondary_button }}
-    <a href="{{ .link }}" class="btn btn-main page-scroll secondary-button" target="_blank"
+    <a href="{{ .link }}" class="btn btn-transparent page-scroll"
       >{{ .label }}</a
     >
     {{ end }} {{ end }}

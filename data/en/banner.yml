@@ -4,13 +4,13 @@ banner:
   bg_image_webp : "images/backgrounds/hero-area.webp"
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Methodical Automation for Business Growth"
-  content : "Transform complex business processes into intelligent workflows that save time, reduce costs, and eliminate errors - without requiring technical expertise from you."
+  title : "Build Better Customer Support. Automate Everything Else."
+  content : "<b>Sofia</b> automates customer inquiries 24/7. <b>Metodia</b> automates any workflow. Both designed for rapid deployment and transparency."
   button:
+    enable : true
+    label : "Discover Sofia"
+    link : "https://sofia.metodia.ar/en"
+  secondary_button:
     enable : true
     label : "Explore Our Services"
     link : "#services"
-  secondary_button:
-    enable : true
-    label : "Discover Sofia"
-    link : "https://sofia.metodia.ar"
