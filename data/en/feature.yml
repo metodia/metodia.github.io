@@ -3,25 +3,25 @@ feature:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : "Our Mission: Democratizing Automation"
-  content : "With years of experience building complex automation systems for major corporations, we realized that small businesses needed these same benefits - but simpler and more affordable. That's why we started Metodia: to make powerful automation accessible to everyone."
+  title : "Mission: Powering Growth with Intelligent Engineering"
+  content : 'We founded Metodia to bring professional-grade software engineering to the world of AI. We saw too many fragile "demos" and not enough reliable systems. We exist to build AI that actually works—at scale, securely, and driving real value.'
   feature_item :
       # feature item loop
-    - title : Rapid Implementation
+    - title : Agile Innovation
       icon : ti-timer # themify icon pack : https://themify.me/themify-icons
-      content : From concept to deployment in weeks, not months, with staged rollouts that deliver value at each step.
+      content : We move fast, but we don't break things. We use agile methodologies to deliver value quickly while maintaining code quality.
 
       # feature item loop
-    - title : Proven Frameworks
+    - title : Robust Architecture
       icon : ti-shield # themify icon pack : https://themify.me/themify-icons
-      content : Battle-tested automation patterns and approaches that reduce risk and ensure reliable performance from day one.
+      content : We don't rely on flimsy hacks. We use proven software patterns to ensure your AI is stable, secure, and ready for enterprise loads.
 
       # feature item loop
-    - title : Budget-Friendly Solutions
-      icon : ti-wallet # themify icon pack : https://themify.me/themify-icons
-      content : Flexible pricing models and scalable solutions designed specifically for small business budgets and growth paths.
+    - title : Measurable ROI
+      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      content : We focus on high-impact solutions that pay for themselves through operational efficiency and new growth. We don't just deliver code; we deliver business results.
 
       # feature item loop
-    - title : Ongoing Support
-      icon : ti-headphone-alt # themify icon pack : https://themify.me/themify-icons
-      content : Continuous guidance and technical assistance to ensure your automation keeps evolving with your business needs.
+    - title : Long-Term Partnership
+      icon : ti-infinite # themify icon pack : https://themify.me/themify-icons
+      content : We are not just vendors; we are your technical partners. As your business evolves, we ensure your AI infrastructure evolves with it.

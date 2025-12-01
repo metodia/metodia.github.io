@@ -3,25 +3,25 @@ feature:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : "Nuestra Misión: Democratizar la Automatización"
-  content : "Con años de experiencia construyendo sistemas de automatización complejos para grandes corporaciones, nos dimos cuenta de que las pequeñas empresas necesitaban estos mismos beneficios, pero más simples y asequibles. Por eso iniciamos Metodia: para hacer que la automatización potente sea accesible para todos."
+  title : "Misión: Impulsando el Crecimiento con Ingeniería Inteligente"
+  content : 'Fundamos Metodia para llevar la ingeniería de software profesional al mundo de la IA. Veíamos demasiadas "demos" frágiles y pocos sistemas confiables. Existimos para construir IA que realmente funcione: a escala, segura y generando valor real.'
   feature_item :
       # feature item loop
-    - title : Implementación Rápida
+    - title : Innovación Ágil
       icon : ti-timer # themify icon pack : https://themify.me/themify-icons
-      content : Del concepto a la implementación en semanas, no meses, con despliegues por etapas que entregan valor en cada paso.
+      content : Nos movemos rápido, pero sin romper nada. Utilizamos metodologías ágiles para entregar valor rápidamente manteniendo la calidad del código.
 
       # feature item loop
-    - title : Herramientas Probadas
+    - title : Arquitectura Robusta
       icon : ti-shield # themify icon pack : https://themify.me/themify-icons
-      content : Patrones y enfoques de automatización probados en batalla que reducen el riesgo y garantizan un rendimiento confiable desde el primer día.
+      content : No dependemos de soluciones improvisadas. Usamos patrones de software probados para asegurar que su IA sea estable, segura y lista para cargas empresariales.
 
       # feature item loop
-    - title : Soluciones Económicas
-      icon : ti-wallet # themify icon pack : https://themify.me/themify-icons
-      content : Modelos de precios flexibles y soluciones escalables diseñadas específicamente para presupuestos y trayectorias de crecimiento de pequeñas empresas.
+    - title : Retorno de Inversión Medible
+      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      content : Nos enfocamos en soluciones de alto impacto que se pagan solas a través de la eficiencia operativa y el crecimiento. No solo entregamos código; entregamos resultados de negocio.
 
       # feature item loop
-    - title : Soporte Continuo
-      icon : ti-headphone-alt # themify icon pack : https://themify.me/themify-icons
-      content : Orientación continua y asistencia técnica para garantizar que su automatización siga evolucionando con las necesidades de su negocio.
+    - title : Asociación a Largo Plazo
+      icon : ti-infinite # themify icon pack : https://themify.me/themify-icons
+      content : No somos solo proveedores; somos sus socios técnicos. A medida que su negocio evoluciona, aseguramos que su infraestructura de IA evolucione con él.
