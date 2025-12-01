@@ -4,7 +4,7 @@ service:
   title : Nuestros Servicios
   service_item :
     # service item loop
-    - name : Automatización de Flujos de Trabajo con IA
+    - name : Automatización de Flujos de Trabajo
       icon : ti-loop # themify icon pack : https://themify.me/themify-icons
       content : Transforme tareas repetitivas en procesos automatizados que funcionan 24/7, reduciendo costos y eliminando errores humanos mientras libera a su equipo para trabajo de mayor valor.
 

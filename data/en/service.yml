@@ -4,7 +4,7 @@ service:
   title : Our Services
   service_item :
     # service item loop
-    - name : AI Workflow Automation
+    - name : Workflow Automation
       icon : ti-loop # themify icon pack : https://themify.me/themify-icons
       content : Transform repetitive tasks into automated processes that run 24/7, reducing costs and eliminating human error while freeing your team for higher-value work.
 
@@ -21,7 +21,7 @@ service:
     # service item loop
     - name : Intelligent Document Processing
       icon : ti-files # themify icon pack : https://themify.me/themify-icons
-      content : AI-powered solutions that extract, classify, and process information from documents, emails, and forms with minimal human oversight.
+      content : Extract, classify, and process information from documents, emails, and forms with minimal human oversight.
 
     # service item loop
     - name : Automation Strategy
