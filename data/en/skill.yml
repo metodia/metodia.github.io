@@ -2,29 +2,29 @@
 skill:
   enable : true
   title : Our Expertise
-  subtitle : Our Technical Approach
-  content : At Metodia, we match the right approach to each client's specific needs and technical capacity. From completely code-free solutions to custom-built systems, we design solutions that deliver results, not complexity.
+  subtitle : How We Deliver Results
+  content : We pick the right approach for your needs—scalable, secure, and built to last. No vendor lock‑in, no technology for its own sake.
   image : images/about/company-growth.webp
   skill_item :
     # skill item loop
-    - name :  No-Code Automation
-      percent : 95%
+    - name :  Intelligent Automation & AI Solutions
+      percent : 100%
 
     # skill item loop
-    - name :  Low-Code Hybrid Solutions
-      percent : 90%
+    - name :  Scalable Cloud Architectures
+      percent : 100%
 
     # skill item loop
-    - name :  Custom Development
-      percent : 85%
+    - name :  Modern Software Engineering (Python & TypeScript)
+      percent : 100%
 
-    - name :  System Integration
-      percent : 90%
-
-    # skill item loop
-    - name :  Smart Automation
-      percent : 80%
+    - name :  Systems Integration & APIs
+      percent : 100%
 
     # skill item loop
-    - name :  Process Analysis & Optimization
-      percent : 95%
+    - name :  Reliability, Monitoring & DevOps
+      percent : 100%
+
+    # skill item loop
+    - name :  Security, Compliance & Data Protection
+      percent : 100%

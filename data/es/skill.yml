@@ -2,29 +2,29 @@
 skill:
   enable : true
   title : Nuestra Experiencia
-  subtitle : Nuestro Enfoque Técnico
-  content : En Metodia, adaptamos el enfoque tecnológico adecuado a las necesidades específicas y capacidad técnica de cada cliente. Desde soluciones completamente sin código hasta sistemas desarrollados a medida, escalamos nuestros métodos para ofrecer el equilibrio perfecto entre potencia, flexibilidad y mantenibilidad.
+  subtitle : Cómo Generamos Resultados
+  content : "Elegimos el enfoque adecuado para sus necesidades: escalable, seguro y diseñado para durar. Sin ataduras a proveedores, sin tecnología por el simple hecho de usarla."
   image : images/about/company-growth.webp
   skill_item :
     # skill item loop
-    - name :  Automatización Sin Código
-      percent : 95%
+    - name :  Automatización Inteligente y Soluciones de IA
+      percent : 100%
 
     # skill item loop
-    - name :  Soluciones Híbridas Low-Code
-      percent : 90%
+    - name :  Arquitecturas Cloud Escalables
+      percent : 100%
 
     # skill item loop
-    - name :  Desarrollo Personalizado
-      percent : 85%
+    - name :  Ingeniería de Software Moderna (Python y TypeScript)
+      percent : 100%
 
-    - name :  Integración de Sistemas
-      percent : 90%
-
-    # skill item loop
-    - name :  Implementación de IA
-      percent : 80%
+    - name :  Integración de Sistemas y APIs
+      percent : 100%
 
     # skill item loop
-    - name :  Análisis y Optimización de Procesos
-      percent : 95%
+    - name :  Confiabilidad, Monitoreo y DevOps
+      percent : 100%
+
+    # skill item loop
+    - name :  Seguridad, Cumplimiento y Protección de Datos
+      percent : 100%
