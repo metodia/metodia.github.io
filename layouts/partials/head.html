@@ -42,6 +42,16 @@
 	{{ end }}
 
 	<script>
-	if (navigator.language.startsWith('en') && !location.pathname.startsWith('/en/')) location.href = '/en/';
+  	// Check if we've already handled language redirection this session
+	if (!sessionStorage.getItem('lang_redirected')) {
+		// Only redirect if we are at the root path and the browser is English
+		if (navigator.language.startsWith('en') && location.pathname === '/') {
+			sessionStorage.setItem('lang_redirected', 'true');
+			location.href = '/en/';
+		} else {
+			// Mark as handled so we don't force redirect later (e.g. when user clicks "Spanish")
+			sessionStorage.setItem('lang_redirected', 'true');
+		}
+	}
 	</script>
 </head>
