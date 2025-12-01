@@ -2,8 +2,8 @@
 contact:
   enable : true
   title : Contacto
-  subtitle : ¿Listo para Comenzar su Viaje de Automatización?
-  content : Agende una consulta con nuestros expertos para explorar sus oportunidades específicas de automatización. Sin presiones, sin jerga técnica — solo una conversación directa sobre cómo hacer que su negocio sea más eficiente y rentable.
+  subtitle : ¿Listo para Transformar su Negocio?
+  content : Ya sea que necesite una potente plataforma de soporte como Sofia o una solución de IA diseñada a medida, estamos aquí para construirla.
 
   # Contact details
   contact_list:

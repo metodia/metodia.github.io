@@ -2,8 +2,8 @@
 contact:
   enable : true
   title : Contact Us
-  subtitle : Ready to Begin Your Automation Journey?
-  content : Schedule a consultation with our experts to explore your specific automation opportunities. No pressure, no technical jargon — just a straightforward conversation about making your business more efficient and profitable.
+  subtitle : Ready to Transform Your Business?
+  content : Whether you need a powerful support platform like Sofia or a custom-engineered AI solution, we are here to build it.
 
   # Contact details
   contact_list:
