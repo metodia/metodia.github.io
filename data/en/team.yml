@@ -7,7 +7,7 @@ team:
     - name : Pablo Bergonzi
       image_webp : images/team/team-1.webp
       image : images/team/team-1.jpg
-      designation : Strategy Lead
+      designation : Co-Founder
       content :  I translate business challenges into automation opportunities, speaking your language—not tech jargon. My focus is ensuring solutions align perfectly with your goals and deliver measurable results.
       social :
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
@@ -17,7 +17,7 @@ team:
     - name : Damián Caruso
       image_webp : images/team/team-2.webp
       image : images/team/team-2.jpg
-      designation : Solutions Architect
+      designation : Co-Founder
       content :  I design and build reliable automation systems that work from day one. By balancing proven frameworks with custom development, I create solutions that are both powerful and maintainable.
       social :
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons

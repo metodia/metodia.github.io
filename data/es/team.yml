@@ -7,7 +7,7 @@ team:
     - name : Pablo Bergonzi
       image_webp : images/team/team-1.webp
       image : images/team/team-1.jpg
-      designation : Líder Estratégico
+      designation : Cofundador
       content :  Traduzco desafíos empresariales en oportunidades de automatización, hablando su idioma—no jerga técnica. Mi enfoque es asegurar que las soluciones se alineen perfectamente con sus objetivos y entreguen resultados medibles.
       social :
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
@@ -17,7 +17,7 @@ team:
     - name : Damián Caruso
       image_webp : images/team/team-2.webp
       image : images/team/team-2.jpg
-      designation : Arquitecto de Soluciones
+      designation : Cofundador
       content :  Diseño y construyo sistemas de automatización confiables que funcionan desde el primer día. Al equilibrar marcos probados con desarrollo personalizado, creo soluciones que son tanto potentes como mantenibles.
       social :
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
