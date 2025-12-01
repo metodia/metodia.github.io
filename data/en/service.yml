@@ -4,31 +4,31 @@ service:
   title : Our Services
   service_item :
     # service item loop
-    - name : Workflow Automation
-      icon : ti-loop # themify icon pack : https://themify.me/themify-icons
-      content : Transform repetitive tasks into automated processes that run 24/7, reducing costs and eliminating human error while freeing your team for higher-value work.
+    - name : Enterprise AI Integration
+      icon : ti-layers-alt # themify icon pack : https://themify.me/themify-icons
+      content : We specialize in integrating AI agents and advanced software deeply into your existing infrastructure (ERPs, CRMs, Legacy Systems), ensuring data flows securely and actions are taken in real-time.
 
     # service item loop
-    - name : Custom Control Dashboards
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Intuitive, visual interfaces that give you complete visibility and control over your automated systems, designed specifically for non-technical users.
-
-    # service item loop
-    - name : System Integration
-      icon : ti-link # themify icon pack : https://themify.me/themify-icons
-      content : Connect your existing software and tools into a cohesive ecosystem where information flows automatically between systems without manual intervention.
+    - name : Custom Software & Agent Development
+      icon : ti-settings # themify icon pack : https://themify.me/themify-icons
+      content : Need something unique? We architect and build custom AI agents and software solutions tailored to your specific business logic, from internal knowledge assistants to complex operational automation.
 
     # service item loop
     - name : Intelligent Document Processing
       icon : ti-files # themify icon pack : https://themify.me/themify-icons
-      content : Extract, classify, and process information from documents, emails, and forms with minimal human oversight.
+      content : Unlock the data trapped in your documents. Our AI-driven solutions extract, classify, and process information from invoices, contracts, and forms with high precision and minimal human oversight.
 
     # service item loop
-    - name : Automation Strategy
-      icon : ti-map # themify icon pack : https://themify.me/themify-icons
-      content : Expert guidance on identifying your highest-impact automation opportunities and creating a phased implementation roadmap aligned with your business goals.
+    - name : Strategic AI Consulting
+      icon : ti-light-bulb # themify icon pack : https://themify.me/themify-icons
+      content : We help you navigate the AI landscape. From identifying high-impact opportunities to designing a scalable technical roadmap, we ensure your investment in technology drives measurable business growth.
 
     # service item loop
-    - name : Process Optimization
-      icon : ti-settings # themify icon pack : https://themify.me/themify-icons
-      content : Analysis and redesign of your existing workflows to eliminate bottlenecks and inefficiencies before implementing automation solutions.
+    - name : Cloud Infrastructure & Scalability
+      icon : ti-cloud-up # themify icon pack : https://themify.me/themify-icons
+      content : We design and deploy the robust cloud architecture needed to support mission-critical AI applications. We ensure your systems are secure, cost-efficient, and ready to scale from day one.
+
+    # service item loop
+    - name : Conversational UX Design
+      icon : ti-comments # themify icon pack : https://themify.me/themify-icons
+      content : A great AI needs a great interface. We design intuitive conversational flows and user experiences for chatbots and voice agents, ensuring natural, effective interactions for your customers.

@@ -4,31 +4,31 @@ service:
   title : Nuestros Servicios
   service_item :
     # service item loop
-    - name : Automatización de Flujos de Trabajo
-      icon : ti-loop # themify icon pack : https://themify.me/themify-icons
-      content : Transforme tareas repetitivas en procesos automatizados que funcionan 24/7, reduciendo costos y eliminando errores humanos mientras libera a su equipo para trabajo de mayor valor.
+    - name : Integración Empresarial de IA
+      icon : ti-layers-alt # themify icon pack : https://themify.me/themify-icons
+      content : Nos especializamos en integrar agentes de IA y software avanzado profundamente en su infraestructura existente (ERPs, CRMs, Sistemas Legados), asegurando que los datos fluyan de manera segura y las acciones se ejecuten en tiempo real.
 
     # service item loop
-    - name : Paneles de Control Personalizados
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Interfaces visuales e intuitivas que le brindan visibilidad y control completos sobre sus sistemas automatizados, diseñadas específicamente para usuarios no técnicos.
-
-    # service item loop
-    - name : Integración de Sistemas
-      icon : ti-link # themify icon pack : https://themify.me/themify-icons
-      content : Conecte su software y herramientas existentes en un ecosistema cohesivo donde la información fluye automáticamente entre sistemas sin intervención manual.
+    - name : Desarrollo de Software y Agentes a Medida
+      icon : ti-settings # themify icon pack : https://themify.me/themify-icons
+      content : ¿Necesita algo único? Diseñamos y construimos agentes de IA y soluciones de software adaptadas a su lógica de negocio específica, desde asistentes de conocimiento interno hasta automatización operativa compleja.
 
     # service item loop
     - name : Procesamiento Inteligente de Documentos
       icon : ti-files # themify icon pack : https://themify.me/themify-icons
-      content : Soluciones impulsadas por IA que extraen, clasifican y procesan información de documentos, correos electrónicos y formularios con mínima supervisión humana.
+      content : Libere los datos atrapados en sus documentos. Nuestras soluciones impulsadas por IA extraen, clasifican y procesan información de facturas, contratos y formularios con alta precisión y mínima supervisión humana.
 
     # service item loop
-    - name : Estrategia de Automatización
-      icon : ti-map # themify icon pack : https://themify.me/themify-icons
-      content : Asesoramiento experto para identificar sus oportunidades de automatización de mayor impacto y crear una hoja de ruta de implementación por fases alineada con sus objetivos empresariales.
+    - name : Consultoría Estratégica en IA
+      icon : ti-light-bulb # themify icon pack : https://themify.me/themify-icons
+      content : Lo ayudamos a navegar el panorama de la IA. Desde identificar oportunidades de alto impacto hasta diseñar una hoja de ruta técnica escalable, aseguramos que su inversión en tecnología impulse un crecimiento empresarial medible.
 
     # service item loop
-    - name : Optimización de Procesos
-      icon : ti-settings # themify icon pack : https://themify.me/themify-icons
-      content : Análisis y rediseño de sus flujos de trabajo existentes para eliminar cuellos de botella e ineficiencias antes de implementar soluciones de automatización.
+    - name : Infraestructura en la Nube y Escalabilidad
+      icon : ti-cloud-up # themify icon pack : https://themify.me/themify-icons
+      content : Diseñamos e implementamos la arquitectura en la nube robusta necesaria para soportar aplicaciones de IA de misión crítica. Aseguramos que sus sistemas sean seguros, rentables y estén listos para escalar desde el primer día.
+
+    # service item loop
+    - name : Diseño de UX Conversacional
+      icon : ti-comments # themify icon pack : https://themify.me/themify-icons
+      content : Una gran IA necesita una gran interfaz. Diseñamos flujos conversacionales y experiencias de usuario intuitivas para chatbots y agentes de voz, asegurando interacciones naturales y efectivas para sus clientes.
