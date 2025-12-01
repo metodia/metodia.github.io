@@ -3,9 +3,9 @@ cta:
   enable : true
   bg_image : "images/backgrounds/bg-white-wall.jpg"
   bg_image_webp : "images/backgrounds/bg-white-wall.webp"
-  title : "Ready to Transform Your Business?"
-  content : "Discover your automation potential with our free workflow assessment. No technical expertise required - just bring your business challenges."
+  title : "Start Your AI Transformation"
+  content : "Let's discuss your business goals and how our engineering team can build the right solution for you."
   button:
     enable : true
-    label : "Schedule a Consultation"
+    label : "Schedule a Technical Discovery"
     link : "#contact"
