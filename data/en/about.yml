@@ -3,14 +3,14 @@ about:
   enable : true
   title : About Us
   about_item :
-  - icon : ti-layers # themify icon pack : https://themify.me/themify-icons
-    title : Methodical by Design
-    content : We approach every automation challenge with a systematic framework that delivers predictable, reliable results. Our structured methodology ensures nothing is overlooked while transforming complex workflows into efficient, AI-powered processes.
+  - icon : ti-harddrives # themify icon pack : https://themify.me/themify-icons
+    title : Engineering Excellence
+    content : We don't just run scripts; we build systems. Our roots in high-scale backend architecture ensure that every AI solution we deploy is secure, reliable, and built to last.
 
-  - icon : ti-briefcase # themify icon pack : https://themify.me/themify-icons
-    title : Industry Expertise
-    content : Our specialists bring deep domain knowledge across multiple industries, allowing us to understand your unique challenges and design automation solutions that address your specific business context.
+  - icon : ti-plug # themify icon pack : https://themify.me/themify-icons
+    title : Deep Integration
+    content : AI shouldn't live in a silo. We specialize in connecting intelligent agents directly to your core business systems (ERPs, CRMs), enabling real-time data access and autonomous action.
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : Human-Centered Innovation
-    content : We believe the best automation enhances human potential rather than replacing it. Our solutions empower your team to focus on strategic work while AI handles the routine tasks.
+  - icon : ti-rocket # themify icon pack : https://themify.me/themify-icons
+    title : Product-Driven DNA
+    content : We are builders at heart. Our experience creating <a href="https://sofia.metodia.ar" target="_blank"><b>Sofia</b></a>, our own AI customer support platform, gives us unique insight into what it takes to launch and scale successful AI products.
