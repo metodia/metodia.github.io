@@ -154,8 +154,8 @@ contentDir = "content/spanish"
 
 [Languages.es.params]
 weight = 1
-title = "Metodia | Soluciones de Automatización Empresarial con IA | Argentina"
-description = "Metodia transforma procesos empresariales complejos en flujos de trabajo automatizados y simples. Ayudamos a las empresas a ahorrar tiempo, reducir costos y eliminar errores mediante automatización metódica con IA—sin requerir experiencia técnica."
+title = "Metodia | Soluciones de Automatización Empresarial | Argentina"
+description = "Metodia transforma procesos empresariales complejos en flujos de trabajo inteligentes. Ayudamos a las empresas a ahorrar tiempo, reducir costos y eliminar errores mediante automatización metódica — sin requerir experiencia técnica de tu parte."
 home = "Inicio"
 copyright = "Copyright &copy; 2025 Metodia"
 
@@ -167,8 +167,8 @@ contentDir = "content/english"
 
 [Languages.en.params]
 weight = 2
-title = "Metodia | AI-Powered Business Automation Solutions | Argentina"
-description = "Metodia transforms complex business processes into simple, automated workflows. We help businesses save time, reduce costs, and eliminate errors through methodical AI-powered automation—without requiring technical expertise from you."
+title = "Metodia | Intelligent Automation Solutions | Argentina"
+description = "Metodia transforms complex business processes into intelligent workflows. We help businesses save time, reduce costs, and eliminate errors through methodical automation — without requiring technical expertise from you."
 home = "Home"
 copyright = "Copyright &copy; 2025 Metodia"
 
